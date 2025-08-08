@@ -34,6 +34,16 @@ const projects = [
     githubLink: "https://github.com/pushpraj7d/obys-agency-clone",
     liveLink: "https://pushpraj7d.github.io/obys-agency-clone/",
   },
+  {
+    title: "Portfolio Website (Built with React.js)",
+    description:
+      "Crafted a responsive and visually engaging portfolio using React.js, Tailwind CSS, and Vite, featuring smooth animations, interactive UI components, and a modern design for an enhanced user experience.",
+    src: "house.jpg",
+    link: "https://i.postimg.cc/bYBbYHKT/Screenshot-2025-08-08-122307.png",
+    color: "#ffe018ff",
+    githubLink: "https://github.com/pushpraj7d/Pushpraj-Portfolio---React",
+    liveLink: "https://pushpraj-portfolio-react.vercel.app/",
+  },
 ];
 
 export default function Projects() {
