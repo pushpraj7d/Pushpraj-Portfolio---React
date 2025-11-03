@@ -56,11 +56,19 @@ const ExperienceSection = () => {
    
     {
       icon: Code2,
-      title: "Frontend Developer",
-      company: "Freelance / Practice Work",
-      period: "2024 - Present",
+      title: "React Developer Intern",
+      company: "Ambispine Technology",
+      period: "2025 (Aug)",
       description:
-        "Built 20+ React projects including e-commerce, clones, and dynamic UIs with clean, reusable components.",
+        "Developed reusable UI components for an e-commerce website during internship at AmbiSpine.",
+    },
+    {
+      icon: Code2,
+      title: "Teaching Assistant",
+      company: "Sheryians Coding School",
+      period: "2025 (Sep - Nov)",
+      description:
+        "Conducted backup classes and assisted in teaching Java and Data Structures & Algorithms.",
     },
   ];
 
