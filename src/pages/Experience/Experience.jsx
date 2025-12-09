@@ -70,6 +70,14 @@ const ExperienceSection = () => {
       description:
         "Conducted backup classes and assisted in teaching Java and Data Structures & Algorithms.",
     },
+    {
+      icon: Code2,
+      title: "Freelance Web Developer",
+      company: "Freelance",
+      period: "2025 (Nov - Present)",
+      description:
+        "Working as an independent freelance Web Developer, building responsive and user-friendly websites for clients.",
+    },
   ];
 
   return (

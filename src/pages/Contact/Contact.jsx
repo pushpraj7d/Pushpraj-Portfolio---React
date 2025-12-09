@@ -101,7 +101,8 @@ export default function Contact() {
                   Get in Touch
                 </h2>
                 <p className="text-gray-300 text-lg">
-                  Have a question or want to work together? Drop us a message!
+                  Want to build a modern, high-performing website or collaborate on a project?
+Feel free to reach out. Drop us a message!
                 </p>
               </div>
 

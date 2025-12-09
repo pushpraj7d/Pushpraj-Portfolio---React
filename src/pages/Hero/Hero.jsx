@@ -42,10 +42,9 @@ const GridBackground = () => {
 
 export default function Hero() {
   const words = [
-    "Frontend Developer & UI/UX Enthusiast",
-    "JavaScript Developer",
-    "Learning MARN Stack",
-    "Java-based DSA Problem Solver",
+    "React Developer",
+    "Freelance Web Developer",
+    "Java DSA Instructor",
   ];
 
   const [code] = useState(`
@@ -211,7 +210,7 @@ const profile = {
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                  React.js UI Developer 🎯 | Turning designs into pixel-perfect reality 🧩
+                  React.js Developer 🎯 | Turning designs into pixel-perfect reality 🧩
                 </p>
               </div>
 
